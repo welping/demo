@@ -1,7 +1,5 @@
-//
 
-this is a demo,
 def cat():
-    return a='this is cat'
+    return print('this is cat')
 def dog():
-    return b='this is dog'
+    return ('this is dog')
